@@ -1,0 +1,7 @@
+{
+  "name": "FloodGuard AI",
+  "description": "AI Flood Warning & Rescue System - Smart India Hackathon 2026 Disaster Management Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

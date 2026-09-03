@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FloodGuard AI</string>
+    <string name="sih_problem_code">SIH26071 - Smart India Hackathon</string>
+    <string name="tagline">AI Flood Warning &amp; Rescue System</string>
+</resources>
